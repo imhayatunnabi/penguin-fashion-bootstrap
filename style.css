@@ -23,3 +23,10 @@ body {
 }
 
 /* @media only screen and (min-width: ) */
+@media only screen and (max-width: 767px) {
+  .custom-order {
+    display: flex;
+    flex-direction: column-reverse !important;
+  }
+}
+/* @media only screen and (min-width: ) */
