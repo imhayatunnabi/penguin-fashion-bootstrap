@@ -1,0 +1,14 @@
+/* google fonts api  */
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat&family=Roboto:wght@400;700&display=swap");
+/* fonts collection  */
+
+/* font-family: "Bebas Neue", cursive;
+font-family: "Montserrat", sans-serif;
+font-family: "Roboto", sans-serif; */
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
